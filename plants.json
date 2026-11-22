@@ -1,0 +1,147 @@
+[
+ {
+  "name": "Fruitless Olive 'Swan Hill'",
+  "category": "tree",
+  "file": "plants/fruitless-olive-swan-hill.jpg"
+ },
+ {
+  "name": "Desert Museum Palo Verde",
+  "category": "tree",
+  "file": "plants/desert-museum-palo-verde.jpg"
+ },
+ {
+  "name": "Coast Live Oak",
+  "category": "tree",
+  "file": "plants/coast-live-oak.jpg"
+ },
+ {
+  "name": "Crape Myrtle 'Natchez'",
+  "category": "tree",
+  "file": "plants/crape-myrtle-natchez.jpg"
+ },
+ {
+  "name": "Dwarf Olive 'Little Ollie'",
+  "category": "shrub",
+  "file": "plants/dwarf-olive-little-ollie.jpg"
+ },
+ {
+  "name": "Coast Rosemary",
+  "category": "shrub",
+  "file": "plants/coast-rosemary.jpg"
+ },
+ {
+  "name": "Toyon",
+  "category": "shrub",
+  "file": "plants/toyon.jpg"
+ },
+ {
+  "name": "Manzanita 'Howard McMinn'",
+  "category": "shrub",
+  "file": "plants/manzanita-howard-mcminn.jpg"
+ },
+ {
+  "name": "Pittosporum 'Silver Sheen'",
+  "category": "shrub",
+  "file": "plants/pittosporum-silver-sheen.jpg"
+ },
+ {
+  "name": "Bougainvillea 'La Jolla'",
+  "category": "shrub",
+  "file": "plants/bougainvillea-la-jolla.jpg"
+ },
+ {
+  "name": "Deer Grass",
+  "category": "grass",
+  "file": "plants/deer-grass.jpg"
+ },
+ {
+  "name": "Pink Muhly",
+  "category": "grass",
+  "file": "plants/pink-muhly.jpg"
+ },
+ {
+  "name": "Lomandra 'Breeze'",
+  "category": "grass",
+  "file": "plants/lomandra-breeze.jpg"
+ },
+ {
+  "name": "Blue Grama 'Blonde Ambition'",
+  "category": "grass",
+  "file": "plants/blue-grama-blonde-ambition.jpg"
+ },
+ {
+  "name": "Cleveland Sage",
+  "category": "perennial",
+  "file": "plants/cleveland-sage.jpg"
+ },
+ {
+  "name": "Spanish Lavender",
+  "category": "perennial",
+  "file": "plants/spanish-lavender.jpg"
+ },
+ {
+  "name": "Kangaroo Paw 'Bush Gold'",
+  "category": "perennial",
+  "file": "plants/kangaroo-paw-bush-gold.jpg"
+ },
+ {
+  "name": "Mexican Bush Sage",
+  "category": "perennial",
+  "file": "plants/mexican-bush-sage.jpg"
+ },
+ {
+  "name": "Bird of Paradise",
+  "category": "perennial",
+  "file": "plants/bird-of-paradise.jpg"
+ },
+ {
+  "name": "California Fuchsia",
+  "category": "perennial",
+  "file": "plants/california-fuchsia.jpg"
+ },
+ {
+  "name": "Blue Glow Agave",
+  "category": "succulent",
+  "file": "plants/blue-glow-agave.jpg"
+ },
+ {
+  "name": "Foxtail Agave",
+  "category": "succulent",
+  "file": "plants/foxtail-agave.jpg"
+ },
+ {
+  "name": "Red Yucca",
+  "category": "succulent",
+  "file": "plants/red-yucca.jpg"
+ },
+ {
+  "name": "Golden Barrel Cactus",
+  "category": "succulent",
+  "file": "plants/golden-barrel-cactus.jpg"
+ },
+ {
+  "name": "Aloe 'Blue Elf'",
+  "category": "succulent",
+  "file": "plants/aloe-blue-elf.jpg"
+ },
+ {
+  "name": "Silver Carpet",
+  "category": "groundcover",
+  "file": "plants/silver-carpet.jpg"
+ },
+ {
+  "name": "Trailing Rosemary",
+  "category": "groundcover",
+  "file": "plants/trailing-rosemary.jpg"
+ },
+ {
+  "name": "Blue Chalksticks",
+  "category": "groundcover",
+  "file": "plants/blue-chalksticks.jpg"
+ },
+ {
+  "name": "Star Jasmine",
+  "category": "vine",
+  "file": "plants/star-jasmine.jpg"
+ }
+]
